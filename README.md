@@ -18,3 +18,6 @@ Django
 
 SQLite
 <img src="imagem/base-de-dados.png" width="32px" alt="">
+
+logo
+<img src="imagem/logo jardim app.png" width="100px" alt="">
